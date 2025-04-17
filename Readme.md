@@ -16,7 +16,7 @@ To set up the Music API locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/music-api.git
+    git clone https://github.com/Swadesh-c0de/music-api.git
     ```
 2. Navigate to the project directory:
     ```bash
