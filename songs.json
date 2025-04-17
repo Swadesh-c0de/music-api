@@ -5,7 +5,7 @@
         "artist": "Arijit Singh, Sunidhi Chauhan",
         "album": "Shivaay",
         "year": 2016,
-        "cover": "https://Swadesh-c0de.github.io/music-api/images/Darkhaast.jpg",
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Darkhaast.png",
         "audio": "https://Swadesh-c0de.github.io/music-api/muisc/Darkhaast.mp3"
     },
     {
@@ -23,7 +23,34 @@
         "artist": "Arijit Singh",
         "album": "Aashiqui 2",
         "year": 2013,
-        "cover": "https://Swadesh-c0de.github.io/music-api/images/Tum_Hi_Ho.jpg",
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Tum_Hi_Ho.png",
         "audio": "https://Swadesh-c0de.github.io/music-api/music/Tum_Hi_Ho.mp3"
+    },
+    {
+        "id": 4,
+        "title": "Janam Janam",
+        "artist": "Arijit Singh, Antara Mitra",
+        "album": "Dilwale",
+        "year": 2015,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Janam_Janam.png",
+        "audio": "https://Swadesh-c0de.github.io/music-api/music/Janam_Janam.mp3"
+    },
+    {
+        "id": 5,
+        "title": "Tera Hua",
+        "artist": "Atif Aslam",
+        "album": "Cash",
+        "year": 2021,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Tera_Hua.jpg",
+        "audio": "https://Swadesh-c0de.github.io/music-api/music/Tera_Hua.mp3"
+    },
+    {
+        "id": 6,
+        "title": "Raabta",
+        "artist": "Arijit Singh, Hamsika Iyer",
+        "album": "Raabta",
+        "year": 2017,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Raabta.jpg",
+        "audio": "https://Swadesh-c0de.github.io/music-api/music/Raabta.mp3"
     }
-]  
+]
