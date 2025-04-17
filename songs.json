@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Darkhaast",
+        "artist": "Arijit Singh, Sunidhi Chauhan",
+        "album": "Shivaay",
+        "year": 2016,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Darkhaast.jpg",
+        "audio": "https://Swadesh-c0de.github.io/music-api/muisc/Darkhaast.mp3"
+    },
+    {
+        "id": 2,
+        "title": "Banjaara",
+        "artist": "Mohammed Irfan",
+        "album": "Ek Villain",
+        "year": 2014,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Banjaara.jpg",
+        "audio": "https://Swadesh-c0de.github.io/music-api/music/Banjaara.mp3"
+    },
+    {
+        "id": 3,
+        "title": "Tum Hi Ho",
+        "artist": "Arijit Singh",
+        "album": "Aashiqui 2",
+        "year": 2013,
+        "cover": "https://Swadesh-c0de.github.io/music-api/images/Tum_Hi_Ho.jpg",
+        "audio": "https://Swadesh-c0de.github.io/music-api/music/Tum_Hi_Ho.mp3"
+    }
+]  
